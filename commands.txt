@@ -1,0 +1,2 @@
+scrapy startproject webarchiving
+scrapy genspider marketplace https://marketplace.uchicago.edu
